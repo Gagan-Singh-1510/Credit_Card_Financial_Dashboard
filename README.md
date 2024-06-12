@@ -7,10 +7,10 @@ To create a comprehensive credit card weekly dashboard that provides real-time i
 ### Steps Performed
 1. Data Preparation :
    - Extracted and cleaned transaction and customer data from the SQL database.
-   - 
+     
 2. Data Import :
    - Imported the cleaned data into Power BI.
-   - 
+   
 3. Data Modeling :
    - Established relationships between data tables and created calculated measures.
 
